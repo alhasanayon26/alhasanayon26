@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hi, I'm Al Hasan Ayon 👋
-
-### Software Engineering Undergraduate · Android Customizer · Web & Game Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&center=true&vCenter=true&width=620&lines=Software+Engineering+Undergraduate;Android+ROM+%26+Module+Developer;Web+%26+Game+Builder;Always+learning%2C+always+shipping" alt="Typing intro">
+<img src="./banner.svg" alt="Al Hasan Ayon" width="100%">
 
 <a href="https://alhasanayon26.github.io/Al-Hasan-Ayon"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/alhasanayon26"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -56,10 +52,29 @@ I'm a Software Engineering student at **Daffodil International University** in D
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-30363d?style=flat-square&logo=github&logoColor=white)
 
+## My Contribution Snake
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alhasanayon26/alhasanayon26/output/github-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/alhasanayon26/alhasanayon26/output/github-snake.svg" alt="Contribution snake" width="100%">
+</picture>
+
+</div>
+
 ## GitHub at a Glance
 
-<p>
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%">
+
+</div>
+
+<p align="center">
+
 <a href="https://github.com/alhasanayon26"><img src="https://img.shields.io/github/followers/alhasanayon26?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=30363d" alt="Followers"></a>
+
 </p>
 
 ## Get in Touch
