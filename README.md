@@ -39,14 +39,90 @@ Software Engineer.
 
 <p><code>202 contributions</code> · <code>20 day streak</code></p>
 
-## Infrastructure shipped
+# 🚀 Featured Projects
 
-- **[CN-Notification-Issue-Fix](https://github.com/alhasanayon26/CN-Notification-Issue-Fix)** — Fix not delay and no incoming notifications from apps in phones having China rom.  · ⭐ 2
-- **[HyperOS-Lite-Launcher](https://github.com/alhasanayon26/HyperOS-Lite-Launcher)** — This launcher is for low end Xiaomi Redmi and Poco devices. It enables Unlocking animation, app opening and closing animation, circle to search, stack or ios style recents menu and many more customizations but still a cutdown version of HyperOS launcher Mod (like- all type of blur features are not available) for better performance. · ⭐ 1
-- **[EliteX-HyperOS3-Enhancement](https://github.com/alhasanayon26/EliteX-HyperOS3-Enhancement)** — Enables quick share in cn rom,  Xiaomi EU like specs in settings, enables performance mode, enables highend features, has lite blur with animations and extended power menu for os3, AOD linkage animation, 90Hz refresh rate unlocked, hides root through zygisk and some performance tweaks at the same time! · ⭐ 1
-- **[alhasanayon26](https://github.com/alhasanayon26/alhasanayon26)** — Featured public work · ⭐ 0
-- **[Neon-Snake](https://github.com/alhasanayon26/Neon-Snake)** — Featured public work · ⭐ 0
-- **[EchoLink](https://github.com/alhasanayon26/EchoLink)** — EchoLink: turn your phone into a wireless speaker for your PC. Share your computer’s audio to any phone browser with a 4-digit code. No app, no account. Built with WebRTC and PeerJS. · ⭐ 0
+These are my three flagship projects, built from scratch through experimentation, problem-solving, and hands-on development.
+
+---
+
+## 1. KeySprint Cafe
+
+**A Complete Typing Practice & Coding Platform**
+
+KeySprint Cafe is a free, browser-based typing practice and coding platform designed to combine typing improvement, programming practice, and AI-assisted learning in one convenient environment.
+
+Built as a single HTML file, the platform requires no installation and brings multiple learning tools together in an accessible interface.
+
+### Key Features
+- **Typing Speed Tests:** Practice typing and measure your typing speed.
+- **Accuracy Tracking:** Evaluate typing accuracy and identify areas for improvement.
+- **Coding Education:** Explore programming and improve coding skills.
+- **KS Code Editor:** A built-in code editor where users can write and run code.
+- **AI Chat Assistant:** An integrated AI chat helper for coding-related assistance.
+- **Browser-Based Experience:** Access the platform directly without installing additional software.
+- **Single-File Architecture:** The entire website is packaged into a single HTML file.
+
+### Technology Stack
+HTML · CSS · JavaScript
+
+🔗 **Live Demo:** https://alhasanayon26.github.io/KeySprint--Cafe/
+
+💻 **Source Code:** https://github.com/alhasanayon26/KeySprint--Cafe
+
+---
+
+## 2. Neon City
+
+**An Immersive 3D Open-World Browser Game**
+
+Neon City is an HTML-based 3D open-world game that brings an expansive city exploration and driving experience directly to the browser.
+
+The project combines interactive environments, vehicle mechanics, missions, dynamic weather, and immersive gameplay into a single browser-based gaming experience.
+
+### Key Features
+- **3D Open World:** Explore an interactive city environment.
+- **Vehicle System:** Drive vehicles and experience open-world transportation.
+- **Mission System:** Take on missions and explore different gameplay activities.
+- **Dynamic Weather:** Experience changing weather conditions within the game.
+- **Interactive Gameplay:** Engage with different elements of the virtual environment.
+- **City Exploration:** Freely explore the game's environment and discover different areas.
+- **Browser-Based Gaming:** Experience a 3D game without requiring a traditional standalone installation.
+
+### Technology Stack
+HTML · CSS · JavaScript
+
+💻 **Source Code:** https://github.com/alhasanayon26/Neon-City
+
+---
+
+## 3. EchoLink
+
+**Turn Your Phone into a Wireless Speaker for Your PC**
+
+EchoLink is a browser-based wireless audio streaming project that allows users to share their computer's audio with a smartphone or another device.
+
+Using WebRTC and PeerJS, EchoLink establishes a browser-to-browser connection, allowing a phone to function as a wireless speaker for a computer.
+
+The project focuses on simplicity and accessibility, eliminating the need for a dedicated mobile application or user account.
+
+### Key Features
+- **Wireless Audio Streaming:** Stream your computer's audio to another device.
+- **Smartphone as a Speaker:** Use your phone as a wireless audio output device.
+- **Four-Digit Connection Code:** Connect devices using a simple 4-digit code.
+- **WebRTC Technology:** Uses real-time communication technology for browser-to-browser connectivity.
+- **PeerJS Integration:** Simplifies peer-to-peer connection management.
+- **No App Required:** Access the receiver through a phone's web browser.
+- **No Account Required:** Connect without creating an account.
+- **Cross-Device Accessibility:** Designed to work between a computer and a compatible phone browser.
+
+### Technology Stack
+HTML · CSS · JavaScript · WebRTC · PeerJS
+
+💻 **Source Code:** https://github.com/alhasanayon26/EchoLink
+
+---
+
+*Learning · Building · Improving.*
 
 ## Platform toolkit
 
